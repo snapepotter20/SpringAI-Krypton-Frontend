@@ -1,3 +1,4 @@
+<img width="1466" height="832" alt="Krypton-ss1" src="https://github.com/user-attachments/assets/eec52e1c-eb50-461f-8bb2-8c6f6afe0fb0" />
 # Krypton Frontend
 
 React + Vite chat UI for the Spring AI Ollama backend.
